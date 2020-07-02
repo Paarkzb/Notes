@@ -1,5 +1,6 @@
 # 1. How to make notes like a programmer
-- https://habr.com/ru/post/346876/
+
+- <https://habr.com/ru/post/346876/>
   
 - Row draft
   - Write title and sources.
