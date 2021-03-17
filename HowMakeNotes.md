@@ -23,4 +23,4 @@
   - Can not understand what you wrote? - Refactor again.
   - Find duplicates of the same file in different places? - Combine them.
 
-To find a note use: git grep [keywords].
+- To find a note use: git grep [keywords].

@@ -19,3 +19,7 @@
 - **curiosity**- an eager wish to know or learn about something.
 - **retention** - the continued use, existence, or possession of something or someone.
 - **maintain** - to continue to have, to keep in existence, or not allow to become less.
+- **halt** - the act of stopping moving or happening.
+- **essentially** - used when you are emphasizing the basic fact about something.
+- **slightly** - a little.
+- **regardless** - despite; not being affected by something.

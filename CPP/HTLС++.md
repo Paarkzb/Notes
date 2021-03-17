@@ -17,4 +17,4 @@
   - [x] <https://www.youtube.com/channel/UCrRR5mU5aqvtZAuEGYfdTjw/videos?flow=grid&sort=p&view=0>
   - [x] <https://www.youtube.com/user/CppCon/videos>
   - [x] <https://www.youtube.com/playlist?list=PLFjq8z-aGyQ77zA5OkzNETLca4ad864Da>
-  - [ ] <https://habr.com/ru/hub/cpp/top/>
+  - [x] <https://habr.com/ru/hub/cpp/top/>
