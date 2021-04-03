@@ -1,4 +1,5 @@
 # 75 A Quick Look At Memory
+
 - <https://www.udemy.com/course/unrealcourse/learn/lecture/16666674?>
 
 - int32: a 32 bit integer, 4 Bytes.
